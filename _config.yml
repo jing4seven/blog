@@ -10,12 +10,12 @@ pygments: true
 #
 title : Jekyll Bootstrap
 tagline: Site Tagline
-author : jing4seven
+author :
   name : jing XIAO
   email : jing4seven@gmail.com
   github : jing4seven
-  twitter : 
-  feedburner : 
+  twitter : username
+  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
