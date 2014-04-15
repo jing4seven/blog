@@ -11,9 +11,9 @@ pygments: true
 title : Jekyll Bootstrap
 tagline: Site Tagline
 author :
-  name : jing XIAO
-  email : jing4seven@gmail.com
-  github : jing4seven
+  name : Name Lastname
+  email : blah@email.test
+  github : username
   twitter : username
   feedburner : feedname
 
