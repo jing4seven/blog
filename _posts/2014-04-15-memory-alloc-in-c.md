@@ -18,3 +18,7 @@ tags: []
 	p1 = (char *)malloc(10);  // p1在栈，分配的10字节在堆
 	p2 = (char *)malloc(20); // 同p1
 	strcpy(p1, "123456"); // "123465"在文字常量区
+
+
+
+That's a test!
